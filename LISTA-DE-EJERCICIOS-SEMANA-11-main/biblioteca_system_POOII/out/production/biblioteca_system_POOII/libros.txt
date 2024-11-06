@@ -1,0 +1,9 @@
+titulo= Diamantes y Pedernales
+, autor= Arguedas
+, anioPub= 1954
+, genero= Drama
+, numeroPag= 200
+, estadoPres= OCUPADO
+, nroCap= 8
+, fechaLib= 04/12/2024
+
